@@ -1,6 +1,6 @@
 # VSGB
 
-Sentiment Image Generation： Learing Continuous emotional Distribution with Brightness Modulation
+Sentiment Image Generation： Learning Continuous Emotional Distribution with Brightness Modulation
 
 The introduciton and code of our work will be uploaded later.
 
